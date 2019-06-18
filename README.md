@@ -28,6 +28,7 @@ Exports :
 
 
 For developpers: https://github.com/MEPP-team/MEPP
+
 Mepp - 3D Mesh Processing Platform web site: https://projet.liris.cnrs.fr/mepp/
 
 For more details, please read and cite the paper.
