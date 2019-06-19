@@ -32,6 +32,5 @@ For developpers: https://github.com/MEPP-team/MEPP
 Mepp - 3D Mesh Processing Platform web site: https://projet.liris.cnrs.fr/mepp/
 
 For more details, please read and cite the paper.
-Alice Othmani, Fakhri Torkhani and Jean-Marie Favreau : 3D geometric salient patterns analysis on 3D meshes. In ArXiv ..
-
+Alice Othmani, Fakhri Torkhani and Jean-Marie Favreau : 3D geometric salient patterns analysis on 3D meshes. In ArXiv http://arxiv.org/abs/1906.07645
 
